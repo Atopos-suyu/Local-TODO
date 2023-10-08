@@ -53,7 +53,7 @@
     </pluginRepositories>
 
     <dependencyManagement>
-        <dependencies>
+        <dependencies>  <!--实现java工程所需的maven里的依赖-->
             <dependency>
                 <groupId>com.vaadin</groupId>
                 <artifactId>vaadin-bom</artifactId>
