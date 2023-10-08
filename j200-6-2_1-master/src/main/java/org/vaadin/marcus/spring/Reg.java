@@ -17,7 +17,7 @@ import java.util.List;
 //基于Vaadin框架的简单用户界面类
 /**
  * @author joe
- * @date 2021/6/7
+ * @date 2021/6/7   实现注册功能
  */
 @Route("/reg.html")  //标记注解，用于将这个类映射到一个URL路由上，使得当用户访问这个URL时，可以呈现这个类定义的界面
 public class Reg extends VerticalLayout {  //Reg类继承自Vaadin的VerticalLayout类
